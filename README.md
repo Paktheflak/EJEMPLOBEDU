@@ -8,3 +8,6 @@
 	testing: Pruebas 
 	production: Rama Main
 -Hacer 3 commits haciendo cambios en Readme.md
+
+*Segundo commit en Git*
+Se crean las ramas develop y testing
